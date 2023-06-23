@@ -14,7 +14,7 @@ const SupportWindow = props => {
                 ...{ opacity: props.visible ? '1' : '0' }
             }}
         >
-         <ReactWindow title="Test Window">
+         <ReactWindow title="chatengine">
          <ChatEngine
             publicKey='a748d221-bd2b-47b1-af6f-cb81b602b088'
             userName='adam'
